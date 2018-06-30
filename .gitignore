@@ -4,3 +4,11 @@
 /themes/simple/
 /resources/
 /public/resources/
+assets/*
+tools/phing-metadata
+.buildpath
+.project
+.settings
+.idea
+.DS_Store
+forum
