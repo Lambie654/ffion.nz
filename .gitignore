@@ -12,3 +12,5 @@ tools/phing-metadata
 .idea
 .DS_Store
 forum
+.env.example
+phpcs.xml.dist
