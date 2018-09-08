@@ -32,6 +32,7 @@
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i%7cWork+Sans:400,500,700" rel="stylesheet" type="text/css">
     
     <link rel="stylesheet" href="assets/css/combined.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 
     <!-- END: Styles -->
 
@@ -800,7 +801,8 @@
 
     <!-- START: Scripts -->
 
-    <script src="assets/js/combined.js"></script>
+    <script src="assets/javascript/combined.js"></script>
+    <script src="assets/javascript/script.js"></script>
     
     <!-- END: Scripts -->
 
